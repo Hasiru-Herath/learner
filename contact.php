@@ -10,9 +10,9 @@
     <h1>Contact Us</h1>
     <nav>
       <a href="index.html">Home</a>
-      <a href="html-lessons.html">HTML</a>
-      <a href="css-lessons.html">CSS</a>
-      <a href="php-lessons.php">PHP</a>
+      <a href="html_lessons.html">HTML</a>
+      <a href="css_lessons.html">CSS</a>
+      <a href="php_lessons.php">PHP</a>
     </nav>
   </header>
 
