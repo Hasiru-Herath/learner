@@ -42,12 +42,6 @@ By the end of this project, students will:
 - Write simple **PHP scripts**
 - Host a website online **for free**
 
----
-
-## 👨‍🏫 Teacher Notes
-- Encourage students to edit each lesson page and experiment.
-- For practice, let them **add new pages** (e.g., JavaScript basics).
-- You can fork this repo and let students clone it into their own GitHub accounts.
 
 ---
 
